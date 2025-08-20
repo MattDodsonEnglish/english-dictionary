@@ -1,4 +1,4 @@
-# words.db
+# words.parquet
 
 Dictionary entries for 167585 words in a parquet file, including IPA pronunciations, homoynm and meanings.
 Built by sweeping every word of [dictionaryapi.dev](https://dictionaryapi.dev/).
