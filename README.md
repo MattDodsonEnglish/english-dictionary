@@ -19,6 +19,10 @@ If you have some special interest in the data, feel free to request the `raw_res
 
 ### Structure
 
+> [!NOTE]
+> The [`schema.json`](schema.json) file has a schema generated for the JSON in entries.
+> It was generated from the entry for `cat`, which as measured by entry length, is the most linguistically dense word in the English language.
+
 The current schema has two columns:
 
 - `word`. The head word. For example, "lead".
